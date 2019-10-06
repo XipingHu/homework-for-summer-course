@@ -1,0 +1,9 @@
+_region_.prv
+auto
+document.prv
+*.log
+_region_.*
+*.aux
+*.gz
+*~
+*.xdv
